@@ -1,6 +1,6 @@
-module.exports = () => {
+module.exports = app => {
 
-    const customersDB = require('../data/customers.json');
+    const customersDB = app.data.CustomersData;
     const controller = {};
 
     controller.listCustomers = (req, res) => {
