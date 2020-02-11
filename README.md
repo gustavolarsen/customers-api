@@ -1,7 +1,7 @@
 # Customers-API
 > API Restful em NodeJS
 
-CRUD desenvolvido em NodeJS para cadastro, edição e exclusão de clientes.
+CRUD desenvolvido em NodeJS para cadastro, consulta, edição e exclusão de clientes.
 
 O projeto utliza uma base _mockada_ através de um arquivo JSON
 
@@ -13,7 +13,7 @@ O projeto utliza uma base _mockada_ através de um arquivo JSON
 * nodemon: 2.0.2
 * uuid: 3.4.0
 
-## URL para testar a API através do Postman ou Insomnia
+## URL para testar a API através do Postman ou Insomnia 
 
 * **GET** https://customers-api-gustavolarsen.herokuapp.com/api/v1/customers
 
@@ -23,7 +23,7 @@ O projeto utliza uma base _mockada_ através de um arquivo JSON
 
 * **DELETE** https://customers-api-gustavolarsen.herokuapp.com/api/v1/customers/:customerId
 
-> **body para as requisições PUSH e PUT**
+> **body** para as requisições PUSH e PUT
 
 ```
 {
@@ -36,8 +36,6 @@ O projeto utliza uma base _mockada_ através de um arquivo JSON
     "state": "RS",
 }
 ```
-
-
 
 ## Recomendações
 Recomendo o uso do `YARN` para instalação de pacotes. [yarnpkg.com](https://yarnpkg.com)
