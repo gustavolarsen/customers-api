@@ -27,13 +27,13 @@ O projeto utliza uma base _mockada_ através de um arquivo JSON
 
 ```
 {
-    "name": "Nome do Cliente",    
-    "birthDate": "1982-01-20T04:00:00Z",
-    "cellphone": "(51)99999999",
-    "phone": "(51)888888888",
-    "email": "email@email.com.br",
-    "occupation": "Programador",
-    "state": "RS",
+    'name': 'Nome do Cliente',    
+    'birthDate': '1982-01-20T04:00:00Z',
+    'cellphone': '(51)99999999',
+    'phone': '(51)888888888',
+    'email': 'email@email.com.br',
+    'occupation': "Programador',
+    'state': 'RS'
 }
 ```
 
