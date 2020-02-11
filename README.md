@@ -36,6 +36,8 @@ O projeto utliza uma base _mockada_ através de um arquivo JSON
  "state": "SP"
 }
 ```
+### Exemplo de uso no Insomnia
+<img src="https://i.imgur.com/cGY5eaO.png">
 
 ## Recomendações
 Recomendo o uso do `YARN` para instalação de pacotes. [yarnpkg.com](https://yarnpkg.com)
