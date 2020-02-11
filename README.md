@@ -1,5 +1,5 @@
 # Customers-API
-> API Rest NodeJS - Clientes
+> API Restful em NodeJS
 
 CRUD desenvolvido em NodeJS para cadastro, edição e exclusão de clientes.
 
