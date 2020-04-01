@@ -23,7 +23,7 @@ O projeto utliza uma base _mockada_ através de um arquivo JSON
 
 * **DELETE** https://customers-api-gustavolarsen.herokuapp.com/api/v1/customers/:customerId
 
-> **body** para as requisições PUSH e PUT
+> **body** para as requisições POST e PUT
 
 ```
 {
